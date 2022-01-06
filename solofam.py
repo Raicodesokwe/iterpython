@@ -1,0 +1,3 @@
+import onlyfam
+
+onlyfam.bombofam()
